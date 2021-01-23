@@ -1,0 +1,22 @@
+.button {
+    text-align: center;
+    width: 20rem;
+    height: 10rem;
+    box-shadow: 2px 4px 8px grey;
+    margin: auto;
+}
+
+.hiden {
+    text-align: center;
+    width: 20rem;
+    height: 10rem;
+    background: lightblue;
+    box-shadow: 2px 4px 8px grey;
+    margin: auto;
+    display: none;
+}
+
+section {
+  font-size: 1.5rem;
+  font-style: italic;
+}
